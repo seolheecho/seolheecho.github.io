@@ -23,7 +23,8 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:seolheec@andrew.cmu.edu"}
   - {title: Github, icon: github, url: "https://github.com/seolheecho"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/seolheecho0307/"}
-  - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/Seolhee-Cho"}
+  - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=lKQmnboAAAAJ&hl=en&oi=ao"}
+  - {title: ResearchGate, icon: book, url: "https://www.researchgate.net/profile/Seolhee-Cho"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
