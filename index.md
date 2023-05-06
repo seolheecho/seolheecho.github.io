@@ -17,6 +17,9 @@ I am highly interested in learning and utilizing:
  - Energy systesm, Sustainability, Carbon-neutrality
  - Process synthesis, Techno-economic analysis, Life-cycle analysis
 
+Please check my CV for more information on my previous and current work. 
+
+
 # Education
  - Ph.D. in Chemical Engineering, Carnegie Mellon University, United States (2020-present)
  - M.S. in Energy and Chemical Engineering, Incheon National Univeraity, South Korea (2017)
