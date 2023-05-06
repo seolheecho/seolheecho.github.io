@@ -19,15 +19,15 @@ layout: page
 
 [6] **S. Cho**, J. Kim, "Multi-site and multi-period optimization model for strategic planning of a renewable hydrogen energy network from biomass waste and energy crops", *Energy*, 185, 527-540 (2019). [[DOI](https://www.sciencedirect.com/science/article/pii/S0360544219313805)]
 
-[7] **S. Cho**, S. Kim, J. Kim, "Life-cycle energy, cost, and $CO<sub>2</sub> emission of CO<sub>2</sub>-enhanced coalbed methane (ECBM) recovery framework", *Journal of Natural Gas Science of Engineering*, 70, 102953 (2019). [[DOI]()]
+[7] **S. Cho**, S. Kim, J. Kim, "Life-cycle energy, cost, and CO<sub>2</sub> emission of CO<sub>2</sub>-enhanced coalbed methane (ECBM) recovery framework", *Journal of Natural Gas Science of Engineering*, 70, 102953 (2019). [[DOI](https://www.sciencedirect.com/science/article/pii/S1875510019302057)]
 
-[8] M. Lee, **S. Cho**, J. Kim, "A comprehensive model for design and analysis of bioethanol production and supply strategies from lignocellulosic biomass", *Renewable Energy*, 112, 247-259 (2017). [[DOI]()]
+[8] M. Lee, **S. Cho**, J. Kim, "A comprehensive model for design and analysis of bioethanol production and supply strategies from lignocellulosic biomass", *Renewable Energy*, 112, 247-259 (2017). [[DOI](https://www.sciencedirect.com/science/article/pii/S0960148117304263)]
 
-[9] **S. Cho**, J. Kim, "An optimization-based planning of investment strategies for a renewable energy supply system from biomass utilization", *Korean Journal of Chemical Engineering*, 33, 2808-2819 (2016). [[DOI]()]
+[9] **S. Cho**, J. Kim, "An optimization-based planning of investment strategies for a renewable energy supply system from biomass utilization", *Korean Journal of Chemical Engineering*, 33, 2808-2819 (2016). [[DOI](https://link.springer.com/article/10.1007/s11814-016-0209-0)]
 
-[10] **S. Cho**, Y. Woo, B. S. Kim, J. Kim, "Optimization-based planning of a biomass to hydrogen (B2H2) system using dedicated energy crops and waste biomass", *Biomass and Bioenergy*, 87, 144-155 (2016). [[DOI]()]
+[10] **S. Cho**, Y. Woo, B. S. Kim, J. Kim, "Optimization-based planning of a biomass to hydrogen (B2H2) system using dedicated energy crops and waste biomass", *Biomass and Bioenergy*, 87, 144-155 (2016). [[DOI](https://www.sciencedirect.com/science/article/pii/S0961953416300460)]
 
-[11] Y. Woo, **S. Cho**, J. Kim, B. S. Kim, "Optimization-based approach for strategic design and operation of a biomass-to-hydrogen supply chain", *International Journal of Hydrogen Energy*, 41(12), 5405-5418 (2016). [[DOI]()]
+[11] Y. Woo, **S. Cho**, J. Kim, B. S. Kim, "Optimization-based approach for strategic design and operation of a biomass-to-hydrogen supply chain", *International Journal of Hydrogen Energy*, 41(12), 5405-5418 (2016). [[DOI](https://www.sciencedirect.com/science/article/pii/S0360319915306194)]
 
-[12] **S. Cho**, J. Kim, "Feasibility and impact analysis of a renewable energy source (RES)-based energy systen in Korea", *Energy*, 85, 317-328 (2015). [[DOI]()]
+[12] **S. Cho**, J. Kim, "Feasibility and impact analysis of a renewable energy source (RES)-based energy systen in Korea", *Energy*, 85, 317-328 (2015). [[DOI](https://www.sciencedirect.com/science/article/pii/S0360544215003904)]
 
