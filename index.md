@@ -5,7 +5,7 @@ title: ""
 
 ## About me
 
-![photo](/assets/photo.jpg){width=100}
+![photo](/assets/photo.jpg)
 
 Hello there! I'm Seolhee Cho, a third-year Ph.D. candidate in the Chemical Engineering department at Carnegie Mellon University (CMU), specializing in Process Systems Engineering (PSE). Under the guidance of Professor [Ignacio E. Grossmann](http://egon.cheme.cmu.edu/), my research focuses on developing an innovative optimization model and algorithm for multi-period and multi-region power system expansion planning. The primary goal is to incorporate reliability, resilience, and flexibility into the expansion planning model. In the initial phase of my work, I successfully developed a disjunctive optimization model and bilevel decomposition to plan reliable infrastructure of power generation systems. Currently, I'm dedicated to proposing a new expansion planning model that enhances the resilience of power systems.
 
