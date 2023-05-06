@@ -31,3 +31,37 @@ layout: page
 
 [12] **S. Cho**, J. Kim, "Feasibility and impact analysis of a renewable energy source (RES)-based energy systen in Korea", *Energy*, 85, 317-328 (2015). [[DOI](https://www.sciencedirect.com/science/article/pii/S0360544215003904)]
 
+
+### Conference proceedings
+[1] **S. Cho**, I. E. Grossmann, “An optimization model for expansion planning of reliable power generation systems”, 32nd European symposium on Computer Aided Process Engineering (ESCAPE32), *Computer-Aided Chemical Engineering*, 51, 841-846 (2022). [[DOI](https://www.sciencedirect.com/science/article/abs/pii/B9780323958790501417)]
+
+[2] **S. Cho**, I. E. Grossmann, "An optimization model for the design and operation of reliable power generation systems", 14th international symposium on process systems engineering (PSE2021+), *Computer-Aided Chemical Engineering*, 49, 709-714 (2022). [[DOI](https://www.sciencedirect.com/science/article/abs/pii/B9780323851596501184)]
+
+[3] **S. Cho**, W. Won, S. Han, S. Kim, C. You, J. Kim, "An optimization-based design and analysis of a biomass derived hydrogen energy system", 13th international symposium on process systems engineering (PSE 2018), *Computer-Aided Chemical Engineering*, 44, 1573-1578 (2018). [[DOI](https://www.sciencedirect.com/science/article/abs/pii/B9780444642417502573)]
+
+
+
+## Presentations
+
+### Oral presentations
+[1] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, “Generalized Disjunctive Programming (GDP) model for the optimal capacity planning of reliable power generation systems”, 2022 AIChE Annual Meeting, Phoenix, USA (2022).
+
+[2] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, “Disjunctive optimization model for capacity planning of reliable power systems”, 2022 INFORMS Annual Meeting, Indianapolis, USA (2022).
+
+[3] **S. Cho**, I. E. Grossmann, “An optimization model for design and operation of reliable power generation systems”, International Symposium on Process Systems Engineering (PSE 2021+), Kyoto, Japan (2022).
+
+[4] **S. Cho**, I. E. Grossmann, “Optimization model for multi-period and multi-site capacity planning of reliable power generation systems”, European Symposium on Computer Aided Process Engineering (ESCAPE32), Toulouse, France (2022).
+
+[5] **S. Cho**, J. Kim, “An optimization-based design and analysis of spatial B2H2 (Biomass-To-Hydrogen) system”, International Conference on Chemical and Polymer Engineering (ICCPE’15), Barcelona, Spain (2015).
+
+
+### Poster presentations
+[1] **S. Cho**, J. Kim, “Techno-economic assessment of $CO_2$-enhanced coalbed methane ($CO_2$-ECBM) based on life cycle analysis”, 2016 KIChE autumn meeting, Daejeon, South Korea (2016).
+
+[2] **S. Cho**, M. Lee, J. Kim, “Optimization-based analysis for a design of biomass to hydrogen (B2H2) supply system”, 2016 KIChE Spring meeting, Busan, South Korea (2016).
+
+[3] **S. Cho**, J. Kim, “Strategic planning of renewable energy systems: Investment analysis for biomass to hydrogen (B2H2) supply system in Korea”, 2015 autumn KIChE meeting, Ilsan, South Korea (2015).
+
+[4] **S. Cho**, Y. Woo, B. S. Kim, J. Kim, “An optimization-based design and analysis of spatial B2H2 (Biomass-To-Hydrogen) system”, 2015 KIChE spring meeting, Jeju, South Korea (2015).
+
+[5] **S. Cho**, J. Kim, “Feasibility and sustainability assessment of renewable energy source (RES)-based energy system in Korea”, 2014 KIChE autumn meeting, Daejeon, South Korea (2014).
