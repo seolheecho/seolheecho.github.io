@@ -7,12 +7,14 @@ layout: page
 ## Publications
 
 ### Full-length papers
- - ***S. Cho**<sup>1<sup>*, *T. N. Do<sup>1<sup>*, J. Kim, "Advanced design and comparative analysis of green methanol production routes from *CO<sub>2<sub>* and renewable hydrogen: *via* syngas vs. direct hydrogenation processes", *International Journal of Energy Research*, **Under review**. *<sup>1<sup>*: Contributed equally 
+ - **S. Cho**<sup>1<sup>, *T. N. Do<sup>1<sup>*, J. Kim, "Advanced design and comparative analysis of green methanol production routes from *CO<sub>2<sub>* and renewable hydrogen: *via* syngas vs. direct hydrogenation processes", *International Journal of Energy Research*, **Under review**. *<sup>1<sup>*: Contributed equally 
  - **S. Cho**, J. Tovar-Facio, I. E. Grossmann, "Disjunctive optimization model and algorithm for long-term capacity expansion planning of reliable power generation systems", *Computers & Chemical Engineering*, 174, 108243 (2023). [[DOI](https://www.sciencedirect.com/science/article/pii/S0098135423001138)]
  - **S. Cho**, C. Li, I. E. Grossmann, "Recent advances and challenges in optimization models for expansion planning of power systems and reliability optimization", *Computers & Chemical Engineering*, 165, 107924 (2022). [[DOI](https://www.sciencedirect.com/science/article/pii/S0098135422002629)]
  - ***S. Cho**<sup>1<sup>*, *C. Kim<sup>1<sup>*, J. Kim, "Techno-economic assessment and early-stage screening of *CO<sub>2<sub>* direct hydrogenation catalysts for methanol production using knowledge-based surrogate modeling", *Energy Conversion and Management*, 244, 114477 (2021). [[DOI](https://www.sciencedirect.com/science/article/pii/S0196890421006531)] *<sup>1<sup>*: Contributed equally
  - *C. Jeong<sup>1<sup>*, ***S. Cho**<sup>1<sup>*, J. Kim, "RFID-based integrated decision making framework for resource planning and process scheduling for a pharmaceutical intermediates manufacturing plant", *Korean Chemical Engineering Research*, 58(3), 346-355 (2020). [[DOI](https://koreascience.kr/article/JAKO202021853969342.page)] *<sup>1<sup>*: Contributed equally
 
+ 
+ 
 \item \textbf{S. Cho}, J. Kim, "Multi-site and multi-period optimization model for strategic planning of a renewable hydrogen energy network from biomass waste and energy crops", \emph{Energy}, 185, 527-540 (2019). doi: \url{10.1016/j.energy.2019.07.053}
 
 \item \textbf{S. Cho}, S. Kim, J. Kim, "Life-cycle energy, cost, and $CO_{2}$ emission of $CO_{2}$-enhanced coalbed methane (ECBM) recovery framework", \emph{Journal of Natural Gas Science of Engineering}, 70, 102953 (2019). doi:\url{10.1016/j.jngse.2019.102953}
