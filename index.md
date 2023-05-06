@@ -4,7 +4,7 @@ title: ""
 
 profile:
   align: right
-  image: photo.jpg
+  image: /assets/photo.jpg
 ---
 
 ## About me
