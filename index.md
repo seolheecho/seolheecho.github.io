@@ -1,10 +1,6 @@
 ---
 layout: page
 title: ""
-
-profile:
-  align: right
-  image: /assets/photo.jpg
 ---
 
 ## About me
