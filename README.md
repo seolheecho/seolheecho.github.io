@@ -9,81 +9,24 @@ layout: page
 ### Full-length papers
  - ***S. Cho**<sup>1<sup>*, *T. N. Do<sup>1<sup>*, J. Kim, "Advanced design and comparative analysis of green methanol production routes from *CO<sub>2<sub>* and renewable hydrogen: *via* syngas vs. direct hydrogenation processes", *International Journal of Energy Research*, Under review. *<sup>1<sup>*: Contributed equally 
  - **S. Cho**, J. Tovar-Facio, I. E. Grossmann, "Disjunctive optimization model and algorithm for long-term capacity expansion planning of reliable power generation systems", *Computers & Chemical Engineering*, 174, 108243 (2023). [[DOI](https://www.sciencedirect.com/science/article/pii/S0098135423001138)]
+ - **S. Cho**, C. Li, I. E. Grossmann, "Recent advances and challenges in optimization models for expansion planning of power systems and reliability optimization", *Computers & Chemical Engineering*, 165, 107924 (2022). [[DOI](https://www.sciencedirect.com/science/article/pii/S0098135422002629)]
+
+\item \textbf{S. Cho$\dagger$}, C. Kim$\dagger$, J. Kim, "Techno-economic assessment and early-stage screening of $CO_{2}$ direct hydrogenation catalysts for methanol production using knowledge-based surrogate modeling", \emph{Energy Conversion and Management}, 244, 114477 (2021). doi: \url{10.1016/j.enconman.2021.114477}. \textcolor{blue}{$\dagger$ Contributed equally}
+
+\item C. Jeong$\dagger$, \textbf{S. Cho$\dagger$}, J. Kim, "RFID-based integrated decision making framework for resource planning and process scheduling for a pharmaceutical intermediates manufacturing plant", \emph{Korean Chemical Engineering Research}, 58(3), 346-355 (2020). doi: \url{10.9713/kcer.2020.58.3.346}. \textcolor{blue}{$\dagger$ Contributed equally}
+
+\item \textbf{S. Cho}, J. Kim, "Multi-site and multi-period optimization model for strategic planning of a renewable hydrogen energy network from biomass waste and energy crops", \emph{Energy}, 185, 527-540 (2019). doi: \url{10.1016/j.energy.2019.07.053}
+
+\item \textbf{S. Cho}, S. Kim, J. Kim, "Life-cycle energy, cost, and $CO_{2}$ emission of $CO_{2}$-enhanced coalbed methane (ECBM) recovery framework", \emph{Journal of Natural Gas Science of Engineering}, 70, 102953 (2019). doi:\url{10.1016/j.jngse.2019.102953}
+
+\item M. Lee, \textbf{S. Cho}, J. Kim, "A comprehensive model for design and analysis of bioethanol production and supply strategies from lignocellulosic biomass", \emph{Renewable Energy}, 112, 247-259 (2017). doi:\url{10.1016/j.renene.2017.05.040}
+
+\item \textbf{S. Cho}, J. Kim, "An optimization-based planning of investment strategies for a renewable energy supply system from biomass utilization", \emph{Korean Journal of Chemical Engineering}, 33, 2808-2819 (2016). doi:\url{10.1007/s11814-016-0209-0}
+
+\item \textbf{S. Cho}, Y. Woo, B. S. Kim, J. Kim, "Optimization-based planning of a biomass to hydrogen (B2H2) system using dedicated energy crops and waste biomass", \emph{Biomass and Bioenergy}, 87, 144-155 (2016). doi:\url{10.1016/j.biombioe.2016.02.025}
+
+\item Y. Woo, \textbf{S. Cho}, J. Kim, B. S. Kim, "Optimization-based approach for strategic design and operation of a biomass-to-hydrogen supply chain", \emph{International Journal of Hydrogen Energy}, 41(12), 5405-5418 (2016). doi:\url{10.1016/j.ijhydene.2016.01.153}
+
+\item \textbf{S. Cho}, J. Kim, "Feasibility and impact analysis of a renewable energy source (RES)-based energy systen in Korea", \emph{Energy}, 85, 317-328 (2015). doi: \url{/10.1016/j.energy.2015.03.081}
 
 
-## Based on
-
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
-
-## Installation (jekyll-remote-theme method)
-
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
-
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
-```
-
-Note: to enable icons you also need to copy over the `_data` folder.
-
-## Config
-
-Your `_config.yml` could for example look like this:
-
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
