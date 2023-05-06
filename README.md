@@ -4,24 +4,12 @@ permalink: "/research/"
 layout: page
 ---
 
-## Installation
+## Publications
 
-**Seolhee Cho** *Seolhee Cho*
+### Full-length papers
+ - **S. Cho^#**, T. N. Do^#, J. Kim, "Advanced design and comparative analysis of green methanol production routes from CO_2 and renewable hydrogen: *via* syngas vs. direct hydrogenation processes", *International Journal of Energy Research*, Under review. #: Contributed equally
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
-## Features
-
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
 
 ## Based on
 
