@@ -12,6 +12,7 @@ Before joining CMU, I obtained my Master's and Bachelor's degrees in Energy and 
 ## Research Interests
 I am highly interested in learning and utilizing: 
  - Mixed-integer programming (MIP), Generalized Disjunctive Programming (GDP), Stochastic programming (SP)
+ - Data-driven and machine-learning based optimization
  - Benders decomposition, Lagrangean decomposition, Bilevel decomposition
  - Exogenous/endogenous uncertainty
  - Energy systesm, Sustainability, Carbon-neutrality
