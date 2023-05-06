@@ -18,3 +18,6 @@ I am highly interested in learning and utilizing:
  - Process synthesis, Techno-economic analysis, Life-cycle analysis
 
 # Education
+ - Ph.D. in Chemical Engineering, Carnegie Mellon University, United States (2020-present)
+ - M.S. in Energy and Chemical Engineering, Incheon National Univeraity, South Korea (2017)
+ - B.S. in Energy and Chemical Engineering, Incheon National Univeraity, South Korea (2015)
