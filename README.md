@@ -7,7 +7,7 @@ layout: page
 ## Publications
 
 ### Full-length papers
- - **S. Cho^#**, T. N. Do^#, J. Kim, "Advanced design and comparative analysis of green methanol production routes from CO_2 and renewable hydrogen: *via* syngas vs. direct hydrogenation processes", *International Journal of Energy Research*, Under review. #: Contributed equally
+ - **S. Cho[^#]**, T. N. Do[^#], J. Kim, "Advanced design and comparative analysis of green methanol production routes from CO_2 and renewable hydrogen: *via* syngas vs. direct hydrogenation processes", *International Journal of Energy Research*, Under review. #: Contributed equally
 
 
 
