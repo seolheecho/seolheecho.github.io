@@ -20,7 +20,7 @@ I am highly interested in learning and utilizing:
  - Data-driven and machine-learning based optimization
  - Benders decomposition, Lagrangean decomposition, Bilevel decomposition
  - Exogenous/endogenous uncertainty
- - Energy systesm, Sustainability, Carbon-neutrality
+ - Energy systems, Sustainability, Carbon-neutrality
  - Process synthesis, Techno-economic analysis, Life-cycle analysis
 
 Please check my [CV](/assets/pdf/cho.pdf) for more information on my previous and current works. 
