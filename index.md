@@ -27,6 +27,6 @@ Please check my [CV](/assets/pdf/cho.pdf) for more information on my previous an
 
 
 ## Education
- - Ph.D. candidate in Chemical Engineering, Carnegie Mellon University, United States (2020-present, expected graduate: 2024)
+ - Ph.D. candidate in Chemical Engineering, Carnegie Mellon University, United States (2020-present)
  - M.S. in Energy and Chemical Engineering, Incheon National Univeraity, South Korea (2017)
  - B.S. in Energy and Chemical Engineering, Incheon National Univeraity, South Korea (2015)
