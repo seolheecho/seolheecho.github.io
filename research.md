@@ -8,7 +8,6 @@ layout: page
 
 ### Full-length papers
 [1] **S. Cho**<sup>1</sup>, T. N. Do<sup>1</sup>, J. Kim, "Advanced design and comparative analysis of green methanol production routes from CO<sub>2</sub> and renewable hydrogen: *via* syngas vs. direct hydrogenation processes", *International Journal of Energy Research*, **Under review**. <sup>1</sup>: Contributed equally 
- 
 [2] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, "Disjunctive optimization model and algorithm for long-term capacity expansion planning of reliable power generation systems", *Computers & Chemical Engineering*, 174, 108243 (2023). [[DOI](https://www.sciencedirect.com/science/article/pii/S0098135423001138)]
  
 [3] **S. Cho**, C. Li, I. E. Grossmann, "Recent advances and challenges in optimization models for expansion planning of power systems and reliability optimization", *Computers & Chemical Engineering*, 165, 107924 (2022). [[DOI](https://www.sciencedirect.com/science/article/pii/S0098135422002629)]
