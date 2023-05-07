@@ -39,7 +39,7 @@ layout: page
 
 
 ### Poster presentations
-[1] **S. Cho**, J. Kim, “Techno-economic assessment of $CO_2$-enhanced coalbed methane ($CO_2$-ECBM) based on life cycle analysis”, 2016 KIChE autumn meeting, Daejeon, South Korea (2016). <br>
+[1] **S. Cho**, J. Kim, “Techno-economic assessment of CO<sub>2</sub>-enhanced coalbed methane (CO<sub>2</sub>-ECBM) based on life cycle analysis”, 2016 KIChE autumn meeting, Daejeon, South Korea (2016). <br>
 [2] **S. Cho**, M. Lee, J. Kim, “Optimization-based analysis for a design of biomass to hydrogen (B2H2) supply system”, 2016 KIChE Spring meeting, Busan, South Korea (2016). <br>
 [3] **S. Cho**, J. Kim, “Strategic planning of renewable energy systems: Investment analysis for biomass to hydrogen (B2H2) supply system in Korea”, 2015 autumn KIChE meeting, Ilsan, South Korea (2015). <br>
 [4] **S. Cho**, Y. Woo, B. S. Kim, J. Kim, “An optimization-based design and analysis of spatial B2H2 (Biomass-To-Hydrogen) system”, 2015 KIChE spring meeting, Jeju, South Korea (2015). <br>
