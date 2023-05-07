@@ -18,7 +18,7 @@ I am highly interested in learning and utilizing:
  - Energy systesm, Sustainability, Carbon-neutrality
  - Process synthesis, Techno-economic analysis, Life-cycle analysis
 
-Please check my CV for more information on my previous and current works. 
+Please check my [CV](/cho.pdf) for more information on my previous and current works. 
 
 
 ## Education
