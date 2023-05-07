@@ -31,7 +31,7 @@ layout: page
 ## Presentations
 
 ### Oral presentations
-[1] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, “Generalized Disjunctive Programming (GDP) model for the optimal capacity planning of reliable power generation systems”, 2022 AIChE Annual Meeting, Phoenix, USA (2022). <br>
+[1] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, “*Generalized Disjunctive Programming (GDP)* model for the optimal capacity planning of reliable power generation systems”, 2022 AIChE Annual Meeting, Phoenix, USA (2022). <br>
 [2] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, “Disjunctive optimization model for capacity planning of reliable power systems”, 2022 INFORMS Annual Meeting, Indianapolis, USA (2022). <br>
 [3] **S. Cho**, I. E. Grossmann, “An optimization model for design and operation of reliable power generation systems”, International Symposium on Process Systems Engineering (PSE 2021+), Kyoto, Japan (2022). <br>
 [4] **S. Cho**, I. E. Grossmann, “Optimization model for multi-period and multi-site capacity planning of reliable power generation systems”, European Symposium on Computer Aided Process Engineering (ESCAPE32), Toulouse, France (2022). <br>
