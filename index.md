@@ -4,7 +4,7 @@ title: ""
 ---
 
 ## About me
-<p align ="center">
+<p align="center">
  <img width="300" height="400" src="/assets/photo.jpg">
 </p>
 
