@@ -19,7 +19,7 @@ I am highly interested in learning and utilizing:
  - Mixed-integer programming (MIP), Generalized Disjunctive Programming (GDP), Stochastic programming (SP)
  - Data-driven and machine-learning based optimization
  - Benders decomposition, Lagrangean decomposition, Bilevel decomposition
- - Exogenous/endogenous uncertainty
+ - Exogenous/endogenous uncertainty including reliability, resilience, and flexibility
  - Energy systems, Sustainability, Carbon-neutrality
  - Process synthesis, Techno-economic analysis, Life-cycle analysis
 
