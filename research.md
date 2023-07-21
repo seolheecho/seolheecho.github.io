@@ -7,7 +7,9 @@ layout: page
 ## Publications
 
 ### Full-length papers
-[12] **S. Cho**<sup>1</sup>, T. N. Do<sup>1</sup>, J. Kim, "Advanced design and comparative analysis of green methanol production routes from CO<sub>2</sub> and renewable hydrogen: *via* syngas vs. direct hydrogenation processes", *International Journal of Energy Research*, **Under review**. <sup>1</sup>: Contributed equally <br>
+[14] **S. Cho**<sup>1</sup>, I. E. Grossmann, "Optimization model and algorithm for infrastructure planning of reliable and carbon-neutral power systems: Application to California ISO", *In preparation* <br>
+[13] **S. Cho**<sup>1</sup>, I. E. Grossmann, "A two-stage stochastic programming model for proactive capacity planning and redispatch of power systems to prevent electricity supply disruptions", *In preparation* <br>
+[12] **S. Cho**<sup>1</sup>, T. N. Do<sup>1</sup>, J. Kim, "Advanced design and comparative analysis of methanol production routes from CO<sub>2</sub> and renewable hydrogen: *via* syngas vs. direct hydrogenation processes", *International Journal of Energy Research*, **Under review**. <sup>1</sup>: Contributed equally <br>
 [11] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, "Disjunctive optimization model and algorithm for long-term capacity expansion planning of reliable power generation systems", *Computers & Chemical Engineering*, 174, 108243 (2023). [[link]](https://www.sciencedirect.com/science/article/pii/S0098135423001138) <br> 
 [10] **S. Cho**, C. Li, I. E. Grossmann, "Recent advances and challenges in optimization models for expansion planning of power systems and reliability optimization", *Computers & Chemical Engineering*, 165, 107924 (2022). [[link]](https://www.sciencedirect.com/science/article/pii/S0098135422002629) <br> 
 [9] **S. Cho**<sup>1</sup>, C. Kim<sup>1</sup>, J. Kim, "Techno-economic assessment and early-stage screening of CO<sub>2</sub> direct hydrogenation catalysts for methanol production using knowledge-based surrogate modeling", *Energy Conversion and Management*, 244, 114477 (2021). [[link]](https://www.sciencedirect.com/science/article/pii/S0196890421006531) <sup>1</sup>: Contributed equally <br> 
