@@ -33,7 +33,7 @@ layout: page
 ## Presentations
 
 ### Oral presentations
-[8] **S. Cho**, I. E. Grossmann, "Optimization for infrastructure planning of reliable and carbon-neutral power generation systems: Application to California ISO", 2023 AIChE Annual Meeting, Orlando, Florida, USA (2023). 
+[8] **S. Cho**, I. E. Grossmann, "Optimization for infrastructure planning of reliable and carbon-neutral power generation systems: Application to California ISO", 2023 AIChE Annual Meeting, Orlando, Florida, USA (2023). <br>
 [7] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, “Optimization model for expansion planning of reliable and resilient power systems”, The 23rd Conference of the International Federation of Operational Research Societies (IFORS2023), Santiago, Chile (2023). <br>
 [6] **S. Cho**, I. E. Grossmann, “Optimization model for expansion planning of reliable and resilient power systems under extreme scenarios”, 11th World Congress of Chemical Engineering (WCCE11), Buenos Aires, Argentina (2023). <br>
 [5] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, “*Generalized Disjunctive Programming (GDP)* model for the optimal capacity planning of reliable power generation systems”, 2022 AIChE Annual Meeting, Phoenix, USA (2022). <br>
