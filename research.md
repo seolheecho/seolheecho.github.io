@@ -7,7 +7,9 @@ layout: page
 ## Publications
 
 ### Full-length papers
-[15] **S. Cho**, I. E. Grossmann, "A two-stage stochastic programming model and algorithm for proactive capacity planning and redispatch of power systems to prevent electricity supply disruptions", *In preparation* <br>
+[17]  **S. Cho**, J. Tovar-Facio, I. E. Grossmann, B. P. Omell, C. D. McLean, RT Gooty, P. A. Tominac, A. P. Burgard, "Deterministic *Generalized Disjunctive Programming* (GDP) model and algorithm for infrastructure planning of reliable and carbon-neutral power systems", *In preparation* <br> 
+[16]  **S. Cho**, J. Tovar-Facio, I. E. Grossmann, "Impact of reliability formulations on the optimal planning and operation of power systems", *In preparation* <br> 
+[15] **S. Cho**, I. E. Grossmann, "A two-stage stochastic stochastic *Generalized Disjunctive Programming* (GDP) model and algorithm for proactive capacity planning and reactive operations of resilient power systems under disruptions", *In preparation* <br>
 [14] **S. Cho**, I. E. Grossmann, "A comparison of optimization techniques for capacity expansion and unit commitment of power systems: *Generalized Disjunctive Programming* (GDP) vs. Mixed-Integer Programming (MIP), *In preparation* <br>
 [13] M. Park, **S. Cho**, J. Kim, "Process design and global sensitivity analysis of hydrogen fuel station with dual-operating modes for a sustainable H2 city: Iterative optimization-based simulation using generalized disjunctive programming", Sustainable Cities and Society, *Under review* <br>
 [12] **S. Cho**<sup>1</sup>, T. N. Do<sup>1</sup>, J. Kim, "Advanced design and comparative analysis of methanol production routes from CO<sub>2</sub> and renewable hydrogen: *via* syngas vs. direct hydrogenation processes", *International Journal of Energy Research*, 6270858 (2023). [[link]](https://www.hindawi.com/journals/ijer/2023/6270858) <sup>1</sup>: Contributed equally <br>
