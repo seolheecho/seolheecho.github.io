@@ -7,7 +7,6 @@ layout: page
 ## Publications
 
 ### Full-length papers
-[18] **S. Cho**, E. S. Johnson, I. E. Grossmann, "A comparison of optimization techniques for capacity expansion and unit commitment of power systems: *Generalized Disjunctive Programming* (GDP) vs. Mixed-Integer Programming (MIP), *In preparation* <br>
 [17]  **S. Cho**, J. Tovar-Facio, R. T. Gooty, B. P. Omell, C. D. McLean, A. P. Burgard, J. D. Siirola, J. K. Skolfield, J. Shinn, I. E. Grossmann, "Deterministic optimization model and algorithm for infrastructure planning of reliable and carbon-neutral power systems", *In preparation* <br> 
 [16] **S. Cho**, I. E. Grossmann, "Optimization models and algorithms for design and planning of sustainable process and energy systems", *In preparation* <br> 
 [15] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, "Impact of reliability formulations on the optimal planning and operation of power systems", *In preparation* <br> 
