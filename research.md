@@ -37,14 +37,16 @@ layout: page
 ## Presentations
 
 ### Oral presentations
-[8] **S. Cho**, I. E. Grossmann, "Optimization for infrastructure planning of reliable and carbon-neutral power generation systems: Application to California ISO", 2023 AIChE Annual Meeting, Orlando, Florida, USA (2023). <br>
-[7] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, “Optimization model for expansion planning of reliable and resilient power systems”, The 23rd Conference of the International Federation of Operational Research Societies (IFORS2023), Santiago, Chile (2023). <br>
-[6] **S. Cho**, I. E. Grossmann, “Optimization model for expansion planning of reliable and resilient power systems under extreme scenarios”, 11th World Congress of Chemical Engineering (WCCE11), Buenos Aires, Argentina (2023). <br>
-[5] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, “*Generalized Disjunctive Programming (GDP)* model for the optimal capacity planning of reliable power generation systems”, 2022 AIChE Annual Meeting, Phoenix, USA (2022). <br>
-[4] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, “Disjunctive optimization model for capacity planning of reliable power systems”, 2022 INFORMS Annual Meeting, Indianapolis, USA (2022). <br>
-[3] **S. Cho**, I. E. Grossmann, “An optimization model for design and operation of reliable power generation systems”, International Symposium on Process Systems Engineering (PSE 2021+), Kyoto, Japan (2022). <br>
-[2] **S. Cho**, I. E. Grossmann, “Optimization model for multi-period and multi-site capacity planning of reliable power generation systems”, European Symposium on Computer Aided Process Engineering (ESCAPE32), Toulouse, France (2022). <br>
-[1] **S. Cho**, J. Kim, “An optimization-based design and analysis of spatial B2H2 (Biomass-To-Hydrogen) system”, International Conference on Chemical and Polymer Engineering (ICCPE’15), Barcelona, Spain (2015).
+[10] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, B. P. Omell, C. D. McLean, R. T. Gooty, P. Tominac, A. P. Burgard, J. D. Siirola, J. Shinn, "Optimization for infrastructure planning of reliable and carbon-neutral power generation systems: Application to California ISO", 2023 AIChE Annual Meeting, Orlando, Florida, USA (2023). <br>
+[9] **S. Cho**, I. E. Grossmann, “A two-stage stochastic *emph{Generalized Disjunctive Programming* (GDP) model for proactive capacity planning of resilient power systems and redispatch under disruptions”, 45th Annual ChEGSA Symposium, Pittsburgh, USA, October 26-27 (2023). 
+[8] **S. Cho**, I. E. Grossmann, “A two-stage stochastic *Generalized Disjunctive Programming* (GDP) model for proactive capacity planning of transmission systems and redispatch of generation systems to prevent electricity supply disruptions”, 2023 YinzOR Student Conference, Pittsburgh, USA, August 25-26 (2023). <br>
+[7] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, “Optimization model for expansion planning of reliable and resilient power systems”, The 23rd Conference of the International Federation of Operational Research Societies (IFORS2023), Santiago, Chile, July 10-14 (2023). <br>
+[6] **S. Cho**, I. E. Grossmann, “Optimization model for expansion planning of reliable and resilient power systems under extreme scenarios”, 11th World Congress of Chemical Engineering (WCCE11), Buenos Aires, Argentina, June 4-8 (2023). <br>
+[5] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, “*Generalized Disjunctive Programming (GDP)* model for the optimal capacity planning of reliable power generation systems”, 2022 AIChE Annual Meeting, Phoenix, USA, November 13-18 (2022). <br>
+[4] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, “Disjunctive optimization model for capacity planning of reliable power systems”, 2022 INFORMS Annual Meeting, Indianapolis, USA, October 15-18 (2022). <br>
+[3] **S. Cho**, I. E. Grossmann, “An optimization model for design and operation of reliable power generation systems”, International Symposium on Process Systems Engineering (PSE 2021+), Kyoto, Japan, June 19-23 (2022). <br>
+[2] **S. Cho**, I. E. Grossmann, “Optimization model for multi-period and multi-site capacity planning of reliable power generation systems”, European Symposium on Computer Aided Process Engineering (ESCAPE32), Toulouse, France, June 12-15 (2022). <br>
+[1] **S. Cho**, J. Kim, “An optimization-based design and analysis of spatial B2H2 (Biomass-To-Hydrogen) system”, International Conference on Chemical and Polymer Engineering (ICCPE’15), Barcelona, Spain, July 20-21 (2015).
 
 
 ### Poster presentations
