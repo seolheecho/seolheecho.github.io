@@ -25,7 +25,7 @@ layout: page
 [1] **S. Cho**, J. Kim, "Feasibility and impact analysis of a renewable energy source (RES)-based energy systen in Korea", *Energy*, 85, 317-328 (2015). [[link]](https://www.sciencedirect.com/science/article/pii/S0360544215003904)
 
 ### Book chapter
-[1] **S. Cho**, I. E. Grossmann, "Optimization models and algorithms for design and planning of sustainable process and energy systems", Optimization of Sustainable Process Systems: Multiscale Models and Uncertainties *In preparation* <br> 
+[1] **S. Cho**, I. E. Grossmann, "Optimization models and algorithms for design and planning of sustainable process and energy systems", Optimization of Sustainable Process Systems: Multiscale Models and Uncertainties, *In preparation* <br> 
 
 ### Conference proceedings
 [3] **S. Cho**, I. E. Grossmann, “An optimization model for expansion planning of reliable power generation systems”, 32nd European symposium on Computer Aided Process Engineering (ESCAPE32), *Computer-Aided Chemical Engineering*, 51, 841-846 (2022). [[link]](https://www.sciencedirect.com/science/article/abs/pii/B9780323958790501417) <br>
