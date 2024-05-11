@@ -38,7 +38,7 @@ layout: page
 
 ### Oral presentations
 [10] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, B. P. Omell, C. D. McLean, R. T. Gooty, P. Tominac, A. P. Burgard, J. D. Siirola, J. Shinn, "Optimization for infrastructure planning of reliable and carbon-neutral power generation systems: Application to California ISO", 2023 AIChE Annual Meeting, Orlando, Florida, USA (2023). <br>
-[9] **S. Cho**, I. E. Grossmann, “A two-stage stochastic *emph{Generalized Disjunctive Programming* (GDP) model for proactive capacity planning of resilient power systems and redispatch under disruptions”, 45th Annual ChEGSA Symposium, Pittsburgh, USA, October 26-27 (2023). <br>
+[9] **S. Cho**, I. E. Grossmann, “A two-stage stochastic *Generalized Disjunctive Programming* (GDP) model for proactive capacity planning of resilient power systems and redispatch under disruptions”, 45th Annual ChEGSA Symposium, Pittsburgh, USA, October 26-27 (2023). <br>
 [8] **S. Cho**, I. E. Grossmann, “A two-stage stochastic *Generalized Disjunctive Programming* (GDP) model for proactive capacity planning of transmission systems and redispatch of generation systems to prevent electricity supply disruptions”, 2023 YinzOR Student Conference, Pittsburgh, USA, August 25-26 (2023). <br>
 [7] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, “Optimization model for expansion planning of reliable and resilient power systems”, The 23rd Conference of the International Federation of Operational Research Societies (IFORS2023), Santiago, Chile, July 10-14 (2023). <br>
 [6] **S. Cho**, I. E. Grossmann, “Optimization model for expansion planning of reliable and resilient power systems under extreme scenarios”, 11th World Congress of Chemical Engineering (WCCE11), Buenos Aires, Argentina, June 4-8 (2023). <br>
