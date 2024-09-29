@@ -7,7 +7,7 @@ layout: page
 ## Publications
 
 ### Journal papers
-[16]  **S. Cho**, J. Tovar-Facio, R. T. Gooty, B. P. Omell, J. D. Siirola, J. K. Skolfield, A. P. Burgard, C. D. McLean, J. Shinn, I. E. Grossmann, "Deterministic optimization model and algorithm for infrastructure planning of reliable and carbon-neutral power systems", *In preparation* <br> 
+[16] **S. Cho**, J. Tovar-Facio, R. T. Gooty, B. P. Omell, J. D. Siirola, J. K. Skolfield, A. P. Burgard, C. D. McLean, J. Shinn, I. E. Grossmann, "Deterministic optimization model and algorithm for infrastructure planning of reliable and carbon-neutral power systems", *In preparation* <br> 
 [15] **S. Cho**, I. E. Grossmann, "A two-stage stochastic stochastic *Generalized Disjunctive Programming* (GDP) model and algorithm for proactive capacity planning and reactive operations of resilient power systems under disruptions", *In preparation* <br>
 [14] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, "Impact of reliability formulations on the optimal planning and operation of power systems", *IEEE Transactions on Power Systems*, Under review <br> 
 [13] M. Park, **S. Cho**, J. Kim, "Process design and global sensitivity analysis of hydrogen fuel station with dual-operating modes for a sustainable H2 city: Iterative optimization-based simulation using Generalized Disjunctive Programming", *Sustainable Cities and Society*, 113, 105652 (2024). [[link]](https://www.sciencedirect.com/science/article/pii/S2210670724004773) <br>
@@ -25,7 +25,7 @@ layout: page
 [1] **S. Cho**, J. Kim, "Feasibility and impact analysis of a renewable energy source (RES)-based energy systen in Korea", *Energy*, 85, 317-328 (2015). [[link]](https://www.sciencedirect.com/science/article/pii/S0360544215003904)
 
 ### Book chapter
-[1] **S. Cho**, I. E. Grossmann, "Optimization models and algorithms for design and planning of sustainable process and energy systems", Optimization of Sustainable Process Systems: Multiscale Models and Uncertainties, *In preparation* <br> 
+[1] **S. Cho**, I. E. Grossmann, "Optimization models and algorithms for design and planning of sustainable process and energy systems", Optimization of Sustainable Process Systems: Multiscale Models and Uncertainties, *Submitted* <br> 
 
 ### Conference proceedings
 [3] **S. Cho**, I. E. Grossmann, “An optimization model for expansion planning of reliable power generation systems”, 32nd European symposium on Computer Aided Process Engineering (ESCAPE32), *Computer-Aided Chemical Engineering*, 51, 841-846 (2022). [[link]](https://www.sciencedirect.com/science/article/abs/pii/B9780323958790501417) <br>
