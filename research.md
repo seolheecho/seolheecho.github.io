@@ -7,7 +7,7 @@ layout: page
 ## Publications
 
 ### Journal papers
-[16] **S. Cho**, J. Tovar-Facio, R. T. Gooty, B. P. Omell, J. D. Siirola, J. K. Skolfield, A. P. Burgard, C. D. McLean, J. Shinn, I. E. Grossmann, "Deterministic optimization model and solution strategy for expansion planning of reliable and carbon-neutral power systems", *In preparation* <br> 
+[16] **S. Cho**, J. Tovar-Facio, R. T. Gooty, B. P. Omell, J. D. Siirola, J. K. Skolfield, A. P. Burgard, C. D. McLean, J. Shinn, I. E. Grossmann, "Deterministic optimization model and solution strategy for infrastructure planning and operation of reliable and carbon-neutral power systems", *In preparation* <br> 
 [15] **S. Cho**, I. E. Grossmann, "A two-stage stochastic model and algorithm for proactive planning and reactive operations of resilient power systems under disruptions", *Electric Power Systems Research*, Under review <br>
 [14] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, "Impact of reliability formulations on the optimal planning and operation of power systems", *IEEE Transactions on Power Systems*, Under review <br> 
 [13] M. Park, **S. Cho**, J. Kim, "Process design and global sensitivity analysis of hydrogen fuel station with dual-operating modes for a sustainable H<sub>2</sub> city: Iterative optimization-based simulation using Generalized Disjunctive Programming", *Sustainable Cities and Society*, 113, 105652 (2024). [[link]](https://www.sciencedirect.com/science/article/pii/S2210670724004773) <br>
