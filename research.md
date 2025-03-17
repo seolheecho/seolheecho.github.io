@@ -7,7 +7,6 @@ layout: page
 ## Publications
 
 ### Journal papers
-[17] **S. Cho**, I. E. Grossmann, Optimization model and algorithm for planning and operation of reliable and resilient power systems", *In preparation* <br>
 [16] **S. Cho**, J. Tovar-Facio, R. T. Gooty, B. P. Omell, J. D. Siirola, J. K. Skolfield, A. P. Burgard, C. D. McLean, J. Shinn, I. E. Grossmann, "Deterministic optimization model and algorithm for infrastructure planning of reliable and carbon-neutral power systems", *In preparation* <br> 
 [15] **S. Cho**, I. E. Grossmann, "A two-stage stochastic stochastic *Generalized Disjunctive Programming* (GDP) model and algorithm for proactive capacity planning and reactive operations of resilient power systems under disruptions", *In preparation* <br>
 [14] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, "Impact of reliability formulations on the optimal planning and operation of power systems", *IEEE Transactions on Power Systems*, Under review <br> 
