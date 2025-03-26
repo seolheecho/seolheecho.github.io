@@ -6,10 +6,11 @@ layout: page
 
 ## Publications
 
-### Journal papers
-[17] **S. Cho**, I. E. Grossmann, "A Comparison of Optimization Models for Capacity Expansion and Unit Commitment of Power Systems: Linear Generalized Disjunctive Programming (GDP) vs. Mixed-Integer Quadratic Constraint Programming (MIQCP)", *In preparation* <br> 
-[16] **S. Cho**, J. Tovar-Facio, R. T. Gooty, B. P. Omell, J. D. Siirola, J. K. Skolfield, A. P. Burgard, C. D. McLean, J. Shinn, I. E. Grossmann, "Deterministic optimization model and solution strategy for infrastructure planning and operation of reliable and carbon-neutral power systems", *In preparation* <br> 
-[15] **S. Cho**, I. E. Grossmann, "Two-stage stochastic programming model and solution strategy for proactive planning and reactive operations of resilient power systems under disruptions", *Electric Power Systems Research*, Under review <br>
+### Full-length papers
+[18] **S. Cho**, I. E. Grossmann, "A Comparison of Optimization Models for Capacity Expansion and Unit Commitment of Power Systems: Linear Generalized Disjunctive Programming (GDP) vs. Mixed-Integer Quadratic Constraint Programming (MIQCP)", *In preparation* <br> 
+[17] **S. Cho**, J. Tovar-Facio, R. T. Gooty, B. P. Omell, J. D. Siirola, J. K. Skolfield, A. P. Burgard, C. D. McLean, J. Shinn, I. E. Grossmann, "Deterministic optimization model and solution strategy for infrastructure planning and operation of reliable and carbon-neutral power systems", *In preparation* <br> 
+[16] **S. Cho**, I. E. Grossmann, "Two-stage stochastic programming model and solution strategy for proactive planning and reactive operations of resilient power systems under disruptions", *Electric Power Systems Research*, Under review <br> 
+[15] **S. Cho**, I. E. Grossmann, "Optimization models and algorithms for design and planning of sustainable process and energy systems", Optimization of Sustainable Process Systems: Multiscale Models and Uncertainties, *Accepted* <br> 
 [14] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, "Impact of reliability formulations on the optimal planning and operation of power systems", *IEEE Transactions on Power Systems*, Under review <br> 
 [13] M. Park, **S. Cho**, J. Kim, "Process design and global sensitivity analysis of hydrogen fuel station with dual-operating modes for a sustainable H<sub>2</sub> city: Iterative optimization-based simulation using Generalized Disjunctive Programming", *Sustainable Cities and Society*, 113, 105652 (2024). [[link]](https://www.sciencedirect.com/science/article/pii/S2210670724004773) <br>
 [12] **S. Cho**<sup>1</sup>, T. N. Do<sup>1</sup>, J. Kim, "Advanced design and comparative analysis of methanol production routes from CO<sub>2</sub> and renewable hydrogen: *via* syngas vs. direct hydrogenation processes", *International Journal of Energy Research*, 6270858 (2023). [[link]](https://www.hindawi.com/journals/ijer/2023/6270858) <sup>1</sup>: Contributed equally <br>
@@ -24,9 +25,6 @@ layout: page
 [3] **S. Cho**, Y. Woo, B. S. Kim, J. Kim, "Optimization-based planning of a biomass to hydrogen (B2H2) system using dedicated energy crops and waste biomass", *Biomass and Bioenergy*, 87, 144-155 (2016). [[link]](https://www.sciencedirect.com/science/article/pii/S0961953416300460) <br>
 [2] Y. Woo, **S. Cho**, J. Kim, B. S. Kim, "Optimization-based approach for strategic design and operation of a biomass-to-hydrogen supply chain", *International Journal of Hydrogen Energy*, 41(12), 5405-5418 (2016). [[link]](https://www.sciencedirect.com/science/article/pii/S0360319915306194) <br>
 [1] **S. Cho**, J. Kim, "Feasibility and impact analysis of a renewable energy source (RES)-based energy systen in Korea", *Energy*, 85, 317-328 (2015). [[link]](https://www.sciencedirect.com/science/article/pii/S0360544215003904)
-
-### Book chapter
-[1] **S. Cho**, I. E. Grossmann, "Optimization models and algorithms for design and planning of sustainable process and energy systems", Optimization of Sustainable Process Systems: Multiscale Models and Uncertainties, *Accepted* <br> 
 
 ### Conference proceedings
 [3] **S. Cho**, I. E. Grossmann, “An optimization model for expansion planning of reliable power generation systems”, 32nd European symposium on Computer Aided Process Engineering (ESCAPE32), *Computer-Aided Chemical Engineering*, 51, 841-846 (2022). [[link]](https://www.sciencedirect.com/science/article/abs/pii/B9780323958790501417) <br>
