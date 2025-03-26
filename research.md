@@ -7,6 +7,7 @@ layout: page
 ## Publications
 
 ### Journal papers
+[17] **S. Cho**, I. E. Grossmann, "A Comparison of Optimization Models for Capacity Expansion and Unit Commitment of Power Systems: Linear Generalized Disjunctive Programming (GDP) vs. Mixed-Integer Quadratic Constraint Programming (MIQCP)", *In preparation* <br> 
 [16] **S. Cho**, J. Tovar-Facio, R. T. Gooty, B. P. Omell, J. D. Siirola, J. K. Skolfield, A. P. Burgard, C. D. McLean, J. Shinn, I. E. Grossmann, "Deterministic optimization model and solution strategy for infrastructure planning and operation of reliable and carbon-neutral power systems", *In preparation* <br> 
 [15] **S. Cho**, I. E. Grossmann, "Two-stage stochastic programming model and solution strategy for proactive planning and reactive operations of resilient power systems under disruptions", *Electric Power Systems Research*, Under review <br>
 [14] **S. Cho**, J. Tovar-Facio, I. E. Grossmann, "Impact of reliability formulations on the optimal planning and operation of power systems", *IEEE Transactions on Power Systems*, Under review <br> 
